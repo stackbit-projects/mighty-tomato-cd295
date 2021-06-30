@@ -9,7 +9,16 @@ import ActionLink from './ActionLink';
 export default class Footer extends React.Component {
     renderNav(navLinks, navTitle) {
         return (
-
+            <div className="site-footer__menu cell-12 cell-md my-3 my-md-4">
+                {navTitle && <h2 className="h4 mb-3 mb-md-4">{navTitle}</h2>}
+                <ul className="menu">
+                    {_.map(navLinks, (action, index) => (
+                        <li key={index} className="menu__item mb-1">
+                            <Action action={action} />
+                        </li>
+                    ))}
+                </ul>
+            </div>
         )
     }
 
