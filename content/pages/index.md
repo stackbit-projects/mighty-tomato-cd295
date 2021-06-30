@@ -67,7 +67,7 @@ sections:
         actions:
           - label: See Writing Samples
             url: /faq
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
