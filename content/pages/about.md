@@ -3,18 +3,6 @@ title: About
 seo:
   title: About
   description: This is the about page
-  extra:
-    - name: og:type
-      value: website
-      keyName: property
-    - name: og:title
-      value: About
-      keyName: property
-    - name: og:description
-      value: This is\
-    - name: twitter:image
-      value: images/about.jpg
-      relativeUrl: true
 layout: page
 ---
 
