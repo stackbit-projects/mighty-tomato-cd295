@@ -70,7 +70,7 @@ sections:
             style: secondary
             has_icon: true
             icon: vimeo
-            icon_position: right
+            icon_position: center
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
         media_position: right
