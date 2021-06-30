@@ -11,18 +11,7 @@ seo:
       value: About
       keyName: property
     - name: og:description
-      value: This is the about page
-      keyName: property
-    - name: og:image
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
-    - name: twitter:card
-      value: summary_large_image
-    - name: twitter:title
-      value: About
-    - name: twitter:description
-      value: This is the about page
+      value: This is\
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true
