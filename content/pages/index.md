@@ -68,7 +68,7 @@ sections:
           - label: See Writing Samples
             url: /faq
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
         image: images/feature-1.svg
