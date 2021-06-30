@@ -69,7 +69,7 @@ sections:
             url: /faq
             style: secondary
             has_icon: true
-            icon: arrow-right
+            icon: github
             icon_position: right
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
