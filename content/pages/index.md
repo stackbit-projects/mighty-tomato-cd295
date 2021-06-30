@@ -71,6 +71,7 @@ sections:
             has_icon: true
             icon: vimeo
             icon_position: center
+            new_window: true
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
         media_position: right
